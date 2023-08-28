@@ -1,0 +1,9 @@
+
+@media screen and (min-width:748px) {
+    .copy {
+        transform: translate(-40rem, 0.5rem) ;
+    }
+    .r {
+        transform: translate(40rem, 5rem) ;
+    }
+}
